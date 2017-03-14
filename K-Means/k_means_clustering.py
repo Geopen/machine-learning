@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 
 """
-Global Variables:
+Parameters:
 """
 
 DATA_NUM_MEANS = 4               # Number of clusters to generate data
